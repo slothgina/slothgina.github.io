@@ -6,6 +6,10 @@ A jungle‑coded portfolio of Slothsec rituals, projects, and investigations.
 Welcome to the canopy.
 This is where SlothStudio🦥comes to life — blending creativity, cybersecurity, and slow‑methodical precision.
 More sections, writeups, and rituals will grow here soon.     
+[About Me](#about-me) • [Projects](#🛠️-projects) • [Rituals](#🌴-slothsec-rituals) • [Contact](#📬-contact)
+
+
+
 
 🦥 About Me
 I’m Gina — a cybersecurity professional who blends technical precision with creative, jungle‑coded documentation.
@@ -26,6 +30,15 @@ Adaptive troubleshooting across Linux, Windows, and virtualized environments
 I’m currently expanding into software development, building a hybrid profile that bridges security, creativity, and engineering.
 
 SlothStudio is where all of that comes together — slowly, intentionally, and with a canopy‑level view.
+
+## 🧩 Skills Snapshot
+- Security Engineering & Vulnerability Analysis  
+- SOC Analysis & Threat Detection  
+- Python Automation & Scripting  
+- OSINT & Investigation  
+- Linux & Windows Troubleshooting  
+- Creative Documentation (Slothsec Rituals)
+
 
 ## 🛠️ Projects
 
