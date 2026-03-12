@@ -29,6 +29,22 @@ SlothStudio is where all of that comes together — slowly, intentionally, and w
 
 ## 🛠️ Projects
 
+### 🔍 Python Network Sniffer (Multi‑Version Project)
+
+A Python‑based packet sniffer I built and iterated on across multiple versions while learning network layers, sockets, and real‑time packet analysis.
+
+**Versions included in the repo:**
+- v1 — First working sniffer
+- v2 — Real‑time packet capture
+- v3 — Layer access and field parsing
+- v4 — HTTP‑only filtering
+
+**Skills demonstrated:**
+Python, sockets, packet parsing, network fundamentals, iterative development.
+
+👉 **GitHub Repo:** https://github.com/slothgina/slothsec_networksniffer
+
+
 ### **KC7 Investigations**
 Writeups and analysis from the KC7 cyber detective game, including infection chains, threat actor behavior, and Slothsec‑style investigation notes.
 
